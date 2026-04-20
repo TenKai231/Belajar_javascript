@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.1",
+    "flow-bin": "^0.309.0",
+    "globals": "^17.5.0",
+    "jest": "^30.3.0",
+    "typescript": "^6.0.3"
+  },
+  "jest": {
+  "testPathIgnorePatterns": ["/node_modules/", "test.mjs"]
+}
+}
