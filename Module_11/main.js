@@ -14,3 +14,4 @@ function add(numa, numb) {
 console.log(add(5, 10));
 console.log(add(3, 2));
 console.log(add('4', 10));
+
